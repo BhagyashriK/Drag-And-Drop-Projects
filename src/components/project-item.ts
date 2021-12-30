@@ -1,5 +1,6 @@
 /// <reference path="base-component.ts" />
 /// <reference path="../models/drag-and-drop.ts" />
+/// <reference path="../models/project.ts" />
 
 namespace App {
   export class ProjectItem

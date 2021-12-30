@@ -2,6 +2,7 @@
 /// <reference path="../models/drag-and-drop.ts" />
 /// <reference path="../state/project.ts" />
 /// <reference path="../decorators/autobind.ts" />
+/// <reference path="../models/project.ts" />
 /// <reference path="project-item.ts" />
 
 namespace App {
