@@ -23,6 +23,7 @@ export default abstract class Component<
     if (newElementId) {
       this.element.id = newElementId;
     }
+
     this.attach(insertAtStart);
   }
   private attach(insertAtStart: boolean) {
